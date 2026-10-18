@@ -1,0 +1,6 @@
+{
+  "name": "NULL VECTOR // BITSTREAM_HUD",
+  "description": "High-density TUI-inspired remote torrent management, real-time swarm telemetry, and automated file-routing control plane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
